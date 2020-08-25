@@ -1,2 +1,2 @@
-# mum_practice_question
-A collection of Maharashi International University past technical test and interview questions
+# Practice Questions
+A collection of past and current Computer science Job and University MS technical test and interview questions.
