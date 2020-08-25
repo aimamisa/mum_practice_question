@@ -16,4 +16,4 @@ Examples
 | {1, 2, 1} | 0 (because array does not have an even number of elements) |
 | {} | 1 |
 
-[Go to Answers](https://github.com/aimamisa/practice_questions/Questions/Answers/isDual_Function) to view it in the browser.
+[Go to Answers](https://github.com/aimamisa/practice_questions/tree/MIU_Test_Questions/Questions/Answers/isDual_Function) to view it in the browser.

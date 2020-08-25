@@ -19,4 +19,4 @@ Examples
 | {} | 0 (no middle element) |
 | {1} | 1 (satisfies the condition vacuously) |
 
-[Go to Answers](https://github.com/aimamisa/practice_questions/Questions/Answers/isCentered_Function/) to view it in the browser.
+[Go to Answers](https://github.com/aimamisa/practice_questions/tree/MIU_Test_Questions/Questions/Answers/isCentered_Function/) to view it in the browser.

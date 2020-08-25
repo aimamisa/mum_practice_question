@@ -16,4 +16,4 @@ Examples
 | {0} | 1 |
 | {} | 0 |
 
-[Go to Answers](https://github.com/aimamisa/practice_questions/Questions/Answers/isAllPossibilities_Function/) to view it in the browser.
+[Go to Answers](https://github.com/aimamisa/practice_questions/tree/MIU_Test_Questions/Questions/Answers/IsCentered_Function/) to view it in the browser.
