@@ -1,2 +1,2 @@
-# mum_practice_question
-A collection of Maharashi International University past technical test and interview questions
+# Maharishi International University (MIU) Test Question
+A collection of technical online test questions for MS in computer science at MIU formally MUM.
